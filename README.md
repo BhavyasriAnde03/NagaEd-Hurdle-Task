@@ -7,6 +7,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
+    <h3>Details</h3>
+    <p><b>Name:Bhavyasri Ande</b></p>
+    <p><b>Email:</b><a href="">bhavyasriande2003@gmail.com</a></p>
+    <p><b>Contact Number:</b>7330880146</p>
     <h1>Project: Junior Software Developer Hurdle Task</h1>
     <h3>Description:</h3>
     <p>This project consists of two parts:</p>
